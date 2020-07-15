@@ -1,6 +1,6 @@
 # python-program-to-count-exact-no.-of-digits
-This program tells the user the exact no. of digits in his/her input
-
+This program tells the user the exact no. of digits in his/her inputL<br>
+check out this demo snapshot - <a href="https://raw.githubusercontent.com/Meet-kasediya/python-program-to-count-exact-no.-of-digits/master/img/a.png">Here</a>
 ### Prerequisites
 
 
