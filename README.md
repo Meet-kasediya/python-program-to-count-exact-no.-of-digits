@@ -24,7 +24,7 @@ The program stores this information in '<strong>y</strong>'
 + Creating a new variable to store the exact no. of digits:
 
 <code>digits = len(x) - y # subtracting no. of spaces from the user input</code><br>
-and thus, we get are required output!
+
 
 ## Facing problems?
 
